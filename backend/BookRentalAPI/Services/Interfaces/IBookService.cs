@@ -1,6 +1,6 @@
 ﻿namespace BookRentalAPI.Services.Interfaces
 {
-    public class IBookService
+    public interface IBookService
     {
     }
 }

@@ -1,18 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DOTNET PRJ\\BookHaven\\BookRentalAPI\\",
+  "WorkspaceRootPath": "D:\\DOTNET PRJ\\BookHaven\\backend\\BookRentalAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5E0F9D3-ADDD-40B7-A888-7F0F8B34740A}|BookRentalAPI.csproj|d:\\dotnet prj\\bookhaven\\bookrentalapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5E0F9D3-ADDD-40B7-A888-7F0F8B34740A}|BookRentalAPI.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5E0F9D3-ADDD-40B7-A888-7F0F8B34740A}|BookRentalAPI.csproj|d:\\dotnet prj\\bookhaven\\backend\\bookrentalapi\\models\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E0F9D3-ADDD-40B7-A888-7F0F8B34740A}|BookRentalAPI.csproj|solutionrelative:models\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5E0F9D3-ADDD-40B7-A888-7F0F8B34740A}|BookRentalAPI.csproj|d:\\dotnet prj\\bookhaven\\bookrentalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A5E0F9D3-ADDD-40B7-A888-7F0F8B34740A}|BookRentalAPI.csproj|d:\\dotnet prj\\bookhaven\\backend\\bookrentalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E0F9D3-ADDD-40B7-A888-7F0F8B34740A}|BookRentalAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E0F9D3-ADDD-40B7-A888-7F0F8B34740A}|BookRentalAPI.csproj|d:\\dotnet prj\\bookhaven\\backend\\bookrentalapi\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E0F9D3-ADDD-40B7-A888-7F0F8B34740A}|BookRentalAPI.csproj|solutionrelative:models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E0F9D3-ADDD-40B7-A888-7F0F8B34740A}|BookRentalAPI.csproj|d:\\dotnet prj\\bookhaven\\backend\\bookrentalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A5E0F9D3-ADDD-40B7-A888-7F0F8B34740A}|BookRentalAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5E0F9D3-ADDD-40B7-A888-7F0F8B34740A}|BookRentalAPI.csproj|d:\\dotnet prj\\bookhaven\\bookrentalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5E0F9D3-ADDD-40B7-A888-7F0F8B34740A}|BookRentalAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5E0F9D3-ADDD-40B7-A888-7F0F8B34740A}|BookRentalAPI.csproj|d:\\dotnet prj\\bookhaven\\backend\\bookrentalapi\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E0F9D3-ADDD-40B7-A888-7F0F8B34740A}|BookRentalAPI.csproj|solutionrelative:models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E0F9D3-ADDD-40B7-A888-7F0F8B34740A}|BookRentalAPI.csproj|d:\\dotnet prj\\bookhaven\\backend\\bookrentalapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E0F9D3-ADDD-40B7-A888-7F0F8B34740A}|BookRentalAPI.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E0F9D3-ADDD-40B7-A888-7F0F8B34740A}|BookRentalAPI.csproj|d:\\dotnet prj\\bookhaven\\backend\\bookrentalapi\\models\\dtos\\updatelocationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E0F9D3-ADDD-40B7-A888-7F0F8B34740A}|BookRentalAPI.csproj|solutionrelative:models\\dtos\\updatelocationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E0F9D3-ADDD-40B7-A888-7F0F8B34740A}|BookRentalAPI.csproj|d:\\dotnet prj\\bookhaven\\backend\\bookrentalapi\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E0F9D3-ADDD-40B7-A888-7F0F8B34740A}|BookRentalAPI.csproj|solutionrelative:services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E0F9D3-ADDD-40B7-A888-7F0F8B34740A}|BookRentalAPI.csproj|d:\\dotnet prj\\bookhaven\\backend\\bookrentalapi\\services\\interfaces\\irentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E0F9D3-ADDD-40B7-A888-7F0F8B34740A}|BookRentalAPI.csproj|solutionrelative:services\\interfaces\\irentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E0F9D3-ADDD-40B7-A888-7F0F8B34740A}|BookRentalAPI.csproj|d:\\dotnet prj\\bookhaven\\backend\\bookrentalapi\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E0F9D3-ADDD-40B7-A888-7F0F8B34740A}|BookRentalAPI.csproj|solutionrelative:services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,49 +50,140 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\DOTNET PRJ\\BookHaven\\backend\\BookRentalAPI\\Models\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Book.cs",
+              "ToolTip": "D:\\DOTNET PRJ\\BookHaven\\backend\\BookRentalAPI\\Models\\Entities\\Book.cs",
+              "RelativeToolTip": "Models\\Entities\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T17:02:11.311Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\DOTNET PRJ\\BookHaven\\BookRentalAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\DOTNET PRJ\\BookHaven\\BookRentalAPI\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-16T11:50:45.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\DOTNET PRJ\\BookHaven\\BookRentalAPI\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\DOTNET PRJ\\BookHaven\\BookRentalAPI\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T11:45:49.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DOTNET PRJ\\BookHaven\\BookRentalAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\DOTNET PRJ\\BookHaven\\BookRentalAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABaAAAA",
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\DOTNET PRJ\\BookHaven\\backend\\BookRentalAPI\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\User.cs",
+              "ToolTip": "D:\\DOTNET PRJ\\BookHaven\\backend\\BookRentalAPI\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "Models\\Entities\\User.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA7wAoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T11:50:25.915Z",
+              "WhenOpened": "2025-05-18T14:05:22.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\DOTNET PRJ\\BookHaven\\backend\\BookRentalAPI\\Models\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\LoginDto.cs",
+              "ToolTip": "D:\\DOTNET PRJ\\BookHaven\\backend\\BookRentalAPI\\Models\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T14:05:57.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DOTNET PRJ\\BookHaven\\backend\\BookRentalAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\DOTNET PRJ\\BookHaven\\backend\\BookRentalAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-18T15:14:21.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DOTNET PRJ\\BookHaven\\backend\\BookRentalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DOTNET PRJ\\BookHaven\\backend\\BookRentalAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAuwGAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:50:24.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\DOTNET PRJ\\BookHaven\\backend\\BookRentalAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\DOTNET PRJ\\BookHaven\\backend\\BookRentalAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T14:26:56.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateLocationDto.cs",
+              "DocumentMoniker": "D:\\DOTNET PRJ\\BookHaven\\backend\\BookRentalAPI\\Models\\DTOs\\UpdateLocationDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\UpdateLocationDto.cs",
+              "ToolTip": "D:\\DOTNET PRJ\\BookHaven\\backend\\BookRentalAPI\\Models\\DTOs\\UpdateLocationDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\UpdateLocationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T14:10:36.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\DOTNET PRJ\\BookHaven\\backend\\BookRentalAPI\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "D:\\DOTNET PRJ\\BookHaven\\backend\\BookRentalAPI\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T14:01:00.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRentalService.cs",
+              "DocumentMoniker": "D:\\DOTNET PRJ\\BookHaven\\backend\\BookRentalAPI\\Services\\Interfaces\\IRentalService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IRentalService.cs",
+              "ToolTip": "D:\\DOTNET PRJ\\BookHaven\\backend\\BookRentalAPI\\Services\\Interfaces\\IRentalService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IRentalService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:50:24.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "D:\\DOTNET PRJ\\BookHaven\\backend\\BookRentalAPI\\Services\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IBookService.cs",
+              "ToolTip": "D:\\DOTNET PRJ\\BookHaven\\backend\\BookRentalAPI\\Services\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:50:15.138Z",
               "EditorCaption": ""
             }
           ]

@@ -1,6 +1,10 @@
-﻿namespace BookRentalAPI.Services.Interfaces
+﻿using BookRentalAPI.Models.DTOs;
+
+namespace BookRentalAPI.Services.Interfaces
 {
-    public class IAuthService
+    public interface IAuthService
     {
+        Task<string> RegisterAsync(RegisterDto dto);
+        Task<string> LoginAsync(LoginDto dto);
     }
 }
